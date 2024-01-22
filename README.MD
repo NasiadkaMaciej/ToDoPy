@@ -2,6 +2,7 @@
 
 Manage your tasks with this simple command-line task manager written in Python. Keep track of both global and local tasks with different priorities. It's based on my older program, written in C, [ToDo](https://github.com/NasiadkaMaciej/ToDo)
 
+![App screenshot](https://nasiadka.pl/projects/ToDoPy/ToDoPy.png)
 
 ## Features
 
